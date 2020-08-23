@@ -2,10 +2,10 @@
 
 ## Main goals
 * Explore Data Science
-* Improve your English level
+* Improve my English level
 
 ## Resources
-* Studying books on Data Sceince
+* Study books on Data Sceince
 * Study of documentation in Russion and English
 * Daily English training in Lingualeo
 
